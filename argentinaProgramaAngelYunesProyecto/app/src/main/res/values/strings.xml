@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">argentinaProgramaAngelYunesProyecto</string>
+    <string name="edit_text">Ingrese la cadena de texto a comparar</string>
+    <string name="boton">Pulsa para comparar</string>
+</resources>
